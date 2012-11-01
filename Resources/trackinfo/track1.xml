@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enemySpeedsShip1</key>
+	<string>0.89, 0.91, 0.94, 0.98, 1.02</string>
+	<key>enemySpeedsShip2</key>
+	<string>0.90, 0.92, 0.95, 0.99, 1.03</string>
+	<key>enemySpeedsShip3</key>
+	<string>0.92, 0.94, 0.97, 1.01, 1.05</string>
+	<key>enemySpeedsShip4</key>
+	<string>0.93, 0.95, 0.98, 1.02, 1.06</string>
+	<key>enemySpeedsShip5</key>
+	<string>0.92, 0.94, 0.97, 1.01, 1.05</string>
+	<key>enemySpeedsShip6</key>
+	<string>0.90, 0.92, 0.96, 1.00, 1.05</string>
+	<key>bonusboxen</key>
+	<integer>12</integer>
+	<key>speedboxen</key>
+	<integer>4</integer>
+	<key>reversefactor</key>
+	<real>1.0</real>
+	<key>speedfactor</key>
+	<real>1.0</real>
+</dict>
+</plist>

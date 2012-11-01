@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSTypes</key>
+	<array>
+		<dict>
+			<key>NSHumanReadableName</key>
+			<string>CoreBreach RaceTrack</string>
+			<key>NSName</key>
+			<string>cbracetrack</string>
+			<key>NSRole</key>
+			<string>Editor</string>
+			<key>NSUnixExtensions</key>
+			<array>
+				<string>cbtrack</string>
+			</array>
+		</dict>
+	</array>
+
+	<key>ApplicationName</key>
+	<string>CoreBreach</string>
+	
+	<key>ApplicationDescription</key>
+	<string>CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-based gameplay.</string>
+
+	<key>ApplicationRelease</key>
+	<string>1.1.5</string>
+
+	<key>URL</key>
+	<string>http://corebreach.corecode.at/</string>
+
+	<key>Copyright</key>
+	<string>Copyright 2007 - 2012 CoreCode.
+Copyright 2010 - 2011 Armin Primig.
+</string>
+
+	<key>Authors</key>
+	<array><string>CoreCode (www.corecode.at)</string><string>nCreate (www.ncreate.at)</string></array>
+
+
+	<key>CopyrightDescription</key>
+	<string>All rights reserved. 
+
+Legal Credits:
+This software uses libraries from the FFmpeg project under the LGPLv2.1.
+http://corebreach.corecode.at/FFMPEG.zip
+
+Additional Credits:
+* Spanish translation, sounds and sound effects, music and highly useful beta-feedback kindly provided by "Alejandro 'Klez' González"
+* Gameplay testing and tuning by "Anna Wirnsberger"
+* Some sound effects from "Free-Loops.com" and "freeSFX.co.uk"
+* Font "N-Gage" from "Alejandro Conde López"
+* Some shader-code from NVIDIA, Apple, "Agnius Vasiliauskas" and DelphiGL
+* DDS  loader code from Jon Watte
+* Frameworks  "GNUstep", "SDL", "SDL_mixer", "bullet", "snappy", "libtomcrypt", "OpenAL Soft", "FreeALUT", "cml", "freetype" and "freetype-gl" from their respective teams. 
+  Read CoreBreach.app/Resources/copyright/*.txt for detailed license information.
+
+Music Credits:
+* Alex Beroza - Straight To The Light
+* Abstract Audio - L.T.H. (AA's Refix)
+* Benjamin Orth - Bustin Out
+* djguido - The Pharmacy in my head
+* dr_gore2000 - The Right Time
+* IceSun - Cool_Boy [IceSun Rmx]
+* Klez - I Need you to Escape
+* Klez - Imperfect World
+* snowflake - the New Music Mantra
+* vantage600 - F*KING BOUNCE
+</string>
+
+	<key>SimulationClass</key>
+	<string>Game</string>
+
+</dict>
+</plist>

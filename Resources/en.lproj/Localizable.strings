@@ -1,0 +1,251 @@
+﻿/* No comment provided by engineer. */
+"%@ has won!" = "%@ has won!";
+
+/* No comment provided by engineer. */
+"Best round: %.2fsec" = "Best round: %.2fsec";
+
+/* No comment provided by engineer. */
+"Buy Upgrade #%i" = "Buy Upgrade #%i";
+
+/* No comment provided by engineer. */
+"Upgrade #%i to %.0f%% for %@$:" = "Upgrade #%i to %.0f%% for %@$:";
+
+/* No comment provided by engineer. */
+"Upgrade already installed!" = "Upgrade already installed!";
+
+/* No comment provided by engineer. */
+"You got the third place!" = "You got the third place!";
+
+/* No comment provided by engineer. */
+"You made the second place!" = "You made the second place!";
+
+/* No comment provided by engineer. */
+"You placed at position %i!" = "You placed at position %i!";
+
+/* No comment provided by engineer. */
+"You won the race!" = "You won the race!";
+
+/* No comment provided by engineer. */
+"Handling" = "Handling";
+
+/* No comment provided by engineer. */
+"TopSpeed" = "TopSpeed";
+
+/* No comment provided by engineer. */
+"Acceleration" = "Acceleration";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Upgrade";
+
+/* No comment provided by engineer. */
+"Current" = "Current";
+
+/* No comment provided by engineer. */
+"Do you really want to install this 3rd party track? Please only install tracks from the official site or from people you can trust." = "Do you really want to install this 3rd party track? Please only install tracks from the official site or from people you can trust.";
+
+/* No comment provided by engineer. */
+"Install" = "Install";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Highscores (New Position: %i):" = "Highscores (New Position: %i):";
+
+/* No comment provided by engineer. */
+"Click to record shortcut" = "Click to record shortcut";
+
+/* No comment provided by engineer. */
+"Click to record shortcut" = "Click to record shortcut";
+
+/* No comment provided by engineer. */
+"You can increase the difficulty while completing the Career Mode, but decreasing the difficulty again will erase all your career-progress!" = "You can increase the difficulty while completing the Career Mode, but decreasing the difficulty again will erase all your career-progress!";
+
+/* No comment provided by engineer. */
+"Decreasing the difficulty while completing the Career Mode will erase all your career-progress!" = "Decreasing the difficulty while completing the Career Mode will erase all your career-progress!";
+
+/* No comment provided by engineer. */
+"Proceed" = "Proceed";
+
+/* No comment provided by engineer. */
+"Sorry, only \"Custom Races\" are enabled in this demo version!\n" = "Sorry, only \"Custom Races\" are enabled in this demo version!\n";
+
+/* No comment provided by engineer. */
+"Sorry, only Track %i \"%@\" is enabled in this demo version!\n" = "Sorry, only Track %i \"%@\" is enabled in this demo version!\n";
+
+/* No comment provided by engineer. */
+"BUY FULL VERSION!" = "BUY FULL VERSION!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Installed" = "Installed";
+
+/* No comment provided by engineer. */
+"Warning: there is a known bug in Mac OS X 10.7 that will make its graphics too slow to play CoreBreach (or do other video/3D intensive tasks) if the computer has been put to sleep. Please restart your Mac if the performance of CoreBreach is too low.\n" = "Warning: there is a known bug in Mac OS X 10.7 that will make its graphics too slow to play CoreBreach (or do other video/3D intensive tasks) if the computer has been put to sleep. Please restart your Mac if the performance of CoreBreach is too low.\n";
+
+/* No comment provided by engineer. */
+"More information" = "More information";
+
+/* No comment provided by engineer. */
+"Next race" = "Next race";
+
+/* No comment provided by engineer. */
+"Become 2nd" = "Become 2nd";
+
+/* No comment provided by engineer. */
+"Become 3rd" = "Become 3rd";
+
+/* No comment provided by engineer. */
+"Corebreach an enemy" = "Corebreach an enemy";
+
+/* No comment provided by engineer. */
+"finish game!" = "finish game!";
+
+/* No comment provided by engineer. */
+"Fly a clean round" = "Fly a clean round";
+
+/* No comment provided by engineer. */
+"get 200 cash!" = "get 200 cash!";
+
+/* No comment provided by engineer. */
+"get 400 cash!" = "get 400 cash!";
+
+/* No comment provided by engineer. */
+"get 600 cash!" = "get 600 cash!";
+
+/* No comment provided by engineer. */
+"get 800 cash!" = "get 800 cash!";
+
+/* No comment provided by engineer. */
+"Lead a whole round" = "Lead a whole round";
+
+/* No comment provided by engineer. */
+"Podiumplace track 1" = "Podiumplace track 1";
+
+/* No comment provided by engineer. */
+"Podiumplace track 2" = "Podiumplace track 2";
+
+/* No comment provided by engineer. */
+"Podiumplace track 3" = "Podiumplace track 3";
+
+/* No comment provided by engineer. */
+"Podiumplace track 4" = "Podiumplace track 4";
+
+/* No comment provided by engineer. */
+"Podiumplace track 5" = "Podiumplace track 5";
+
+/* No comment provided by engineer. */
+"unlock REEPER!" = "unlock REEPER!";
+
+/* No comment provided by engineer. */
+"unlock ship 2!" = "unlock ship 2!";
+
+/* No comment provided by engineer. */
+"unlock ship 3!" = "unlock ship 3!";
+
+/* No comment provided by engineer. */
+"unlock ship 4!" = "unlock ship 4!";
+
+/* No comment provided by engineer. */
+"unlock ship 5!" = "unlock ship 5!";
+
+/* No comment provided by engineer. */
+"unlock ship 6!" = "unlock ship 6!";
+
+/* No comment provided by engineer. */
+"unlock track 10!" = "unlock track 10!";
+
+/* No comment provided by engineer. */
+"unlock track 11!" = "unlock track 11!";
+
+/* No comment provided by engineer. */
+"unlock track 12!" = "unlock track 12!";
+
+/* No comment provided by engineer. */
+"unlock track 2!" = "unlock track 2!";
+
+/* No comment provided by engineer. */
+"unlock track 3!" = "unlock track 3!";
+
+/* No comment provided by engineer. */
+"unlock track 4!" = "unlock track 4!";
+
+/* No comment provided by engineer. */
+"unlock track 5!" = "unlock track 5!";
+
+/* No comment provided by engineer. */
+"unlock track 6!" = "unlock track 6!";
+
+/* No comment provided by engineer. */
+"unlock track 7!" = "unlock track 7!";
+
+/* No comment provided by engineer. */
+"unlock track 8!" = "unlock track 8!";
+
+/* No comment provided by engineer. */
+"unlock track 9!" = "unlock track 9!";
+
+/* No comment provided by engineer. */
+"Win a race" = "Win a race";
+
+/* No comment provided by engineer. */
+"Win at level Hard" = "Win at level Hard";
+
+/* No comment provided by engineer. */
+"Win at track 1" = "Win at track 1";
+
+/* No comment provided by engineer. */
+"Win at track 10" = "Win at track 10";
+
+/* No comment provided by engineer. */
+"Win at track 11" = "Win at track 11";
+
+/* No comment provided by engineer. */
+"Win at track 12" = "Win at track 12";
+
+/* No comment provided by engineer. */
+"Win at track 2" = "Win at track 2";
+
+/* No comment provided by engineer. */
+"Win at track 3" = "Win at track 3";
+
+/* No comment provided by engineer. */
+"Win at track 4" = "Win at track 4";
+
+/* No comment provided by engineer. */
+"Win at track 5" = "Win at track 5";
+
+/* No comment provided by engineer. */
+"Win at track 6" = "Win at track 6";
+
+/* No comment provided by engineer. */
+"Win at track 7" = "Win at track 7";
+
+/* No comment provided by engineer. */
+"Win at track 8" = "Win at track 8";
+
+/* No comment provided by engineer. */
+"Win at track 9" = "Win at track 9";
+
+/* No comment provided by engineer. */
+"%@\nto %@" = "%@\nto %@";
+
+/* No comment provided by engineer. */
+"Unlocked Ships: %i" = "Unlocked Ships: %i";
+
+/* No comment provided by engineer. */
+"Unlocked Tracks: %i" = "Unlocked Tracks: %i";
+
+/* No comment provided by engineer. */
+"Money: %i" = "Money: %i";
+
+/* No comment provided by engineer. */
+"New track" = "New track";
+
+/* No comment provided by engineer. */
+"New ship" = "New ship";
+
+/* No comment provided by engineer. */
+"Prepare for race" = "Prepare for race";

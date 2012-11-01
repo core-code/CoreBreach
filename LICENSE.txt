@@ -1,0 +1,34 @@
+*** CoreBreach License Information ***
+	The Game CoreBreach and its components and dependencies come in a variety of licenses.
+	
+SOURCE CODE:
+
+	../Core3D/ 	The used 3D engine is licensed under the MIT license.
+	_DEPENDENCIES/	These are different 3rd pary libraries with their own licenses.
+	Classes/	The main source code of CoreBreach is under the GPL v2.
+	ForeignSources/	External source code from various 3rd paries, presumably liberally licensed.
+	OtherSources/	Misc. other support sources, GPL licensed.
+
+
+DATA (Resources/):
+	copyright/	Copyright information about used 3rd party libraries, presumably public domain.
+	en.lproj/	Interface resource files, GPL licensed.
+	fonts/		FreeSans is GPL, N-Gage is "freeware".
+	ghosts/		All GPL.
+	launcher/ 	Resources and media-files used in the interface, mostly replaced by dummy files, all GPL.
+	models/		"freeware" (no redistribution).
+	music*/		3rd party music, mostly CC_BY
+	overlays/	All GPL.
+	paths/		All GPL.
+	shaders/	All GPL.
+	sounds/		"freeware" (no redistribution).	
+	story/		"freeware" (no redistribution).
+	textures/	All GPL.
+	trackinfo/ 	All GPL.
+
+
+To have a complete open-source re-distributable version of the game you have to replace everthing in story/ sounds/ models/ and the font N-Gage.
+You can also build a binary that either works with the demo dataset from the website (which is "freeware") (by defining DEMO and undefining NODATA) or with the full dataset from game stores (which is commercial) (by undefining NODATA). 
+
+
+You can find the complete text of the GPL v2 under which the main CoreBreach source code is licensed in GPL.txt
