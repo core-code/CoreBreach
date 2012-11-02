@@ -6648,12 +6648,10 @@
 				INFOPLIST_FILE = Resources/Info.plist;
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				OBJROOT = /Users/julian/Documents/Development/_BUILD/_INTERMEDIATE/;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				OTHER_LDFLAGS = "-lcrypto";
 				PRODUCT_NAME = CoreBreach;
 				SDKROOT = macosx;
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = "armv6 armv7 i386 ppc ppc64 ppc7400 ppc970 x86_64";
 				WARNING_CFLAGS = (
@@ -6759,12 +6757,10 @@
 				INFOPLIST_FILE = Resources/Info.plist;
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				OBJROOT = /Users/julian/Documents/Development/_BUILD/_INTERMEDIATE/;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				OTHER_LDFLAGS = "-lcrypto";
 				PRODUCT_NAME = CoreBreach;
 				SDKROOT = macosx;
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = "armv6 armv7 i386 ppc ppc64 ppc7400 ppc970 x86_64";
 				WARNING_CFLAGS = (
@@ -6974,7 +6970,7 @@
 					"-lffplaylib",
 				);
 				SDKROOT = "";
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/WINDOWS/;
+				SYMROOT = "$(TARGET_BUILD_DIR)/WINDOWS/";
 				USER_HEADER_SEARCH_PATHS = "";
 				WARNING_CFLAGS = "-Wno-uninitialized";
 			};
@@ -7037,7 +7033,7 @@
 					"-lffplaylib",
 				);
 				SDKROOT = "";
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/WINDOWS/;
+				SYMROOT = "$(TARGET_BUILD_DIR)/WINDOWS/";
 				USER_HEADER_SEARCH_PATHS = "";
 				WARNING_CFLAGS = "-Wno-uninitialized";
 			};
@@ -7100,7 +7096,7 @@
 					"-lffplaylib",
 				);
 				SDKROOT = "";
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/WINDOWS/;
+				SYMROOT = "$(TARGET_BUILD_DIR)/WINDOWS/";
 				USER_HEADER_SEARCH_PATHS = "";
 				WARNING_CFLAGS = "-Wno-uninitialized";
 			};
@@ -7163,7 +7159,7 @@
 					"-lffplaylib",
 				);
 				SDKROOT = "";
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/WINDOWS/;
+				SYMROOT = "$(TARGET_BUILD_DIR)/WINDOWS/";
 				USER_HEADER_SEARCH_PATHS = "";
 				WARNING_CFLAGS = "-Wno-uninitialized";
 			};
@@ -7250,13 +7246,11 @@
 				INFOPLIST_FILE = Resources/Info.plist;
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				OBJROOT = /Users/julian/Documents/Development/_BUILD/_INTERMEDIATE/;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-lcrypto";
 				PRODUCT_NAME = CoreBreach;
 				SDKROOT = macosx;
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = "armv6 armv7 i386 ppc ppc64 ppc7400 ppc970 x86_64";
 				WARNING_CFLAGS = (
@@ -7339,12 +7333,10 @@
 				INFOPLIST_FILE = Resources/Info.plist;
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				OBJROOT = /Users/julian/Documents/Development/_BUILD/_INTERMEDIATE/;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				OTHER_LDFLAGS = "-lcrypto";
 				PRODUCT_NAME = CoreBreach;
 				SDKROOT = macosx;
-				SYMROOT = /Users/julian/Documents/Development/_BUILD/;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = "armv6 armv7 i386 ppc ppc64 ppc7400 ppc970 x86_64";
 				WARNING_CFLAGS = (
