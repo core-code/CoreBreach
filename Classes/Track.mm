@@ -72,6 +72,7 @@ extern float qdTrackpoint;
 			[enemyData getBytes:enemyPath[i]];
 		}
 
+#ifndef NODATA
 #ifndef TARGET_OS_IPHONE
         if (!game.trackName)
         {
@@ -103,6 +104,7 @@ extern float qdTrackpoint;
             }
             trackLightBuffer[0] = (char)(lightSum / trackPoints);
         }
+#endif
 #endif
 	}
 
