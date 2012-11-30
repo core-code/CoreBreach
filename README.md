@@ -5,8 +5,8 @@ CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-ba
 
 
 1. Checkout Core3D next to Core3D-Example
-	```git clone https://github.com/core-code/Core3D.git
-	git clone https://github.com/core-code/CoreBreach.git```
+	```git clone https://github.com/core-code/Core3D.git```
+	```git clone https://github.com/core-code/CoreBreach.git```
 2. 
 	* Mac: Open CoreBreach.xcodeproj in Xcode 4.x and hit the build button
 	* Win: Buy a Mac, [install clang-compatible Cocotron](http://code.google.com/r/glennganz-cocotron1-clang/) and then open CoreBreach.xcodeproj in Xcode 4.x, select the win32 target and hit the build button.
@@ -16,6 +16,7 @@ CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-ba
 		3. Install the development versions of OpenGL, OpenAL, SDL, SDL_mixer & freetype using your native package management	
 		4. Then compile & run like any other GNUstep project using the GNUmakefile, i.e.:
 			```cd CoreBreach; make	; openapp ./CoreBreach.app```
+			
 			If the last step fails you probably need to specify the library path (replace 32 with 64 on 64-bit systems):
 			```export LD_LIBRARY_PATH=/path/to/CoreBreach/_DEPENDENCIES/libs-linux32/:$LD_LIBRARY_PATH```
 	* BSD:
