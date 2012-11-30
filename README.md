@@ -20,11 +20,11 @@ CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-ba
 		4. Then compile & run like any other GNUstep project using the GNUmakefile, i.e.:
 
 				cd CoreBreach; make	; openapp ./CoreBreach.app
-				
+
 			If the last step fails you probably need to specify the library path (replace 32 with 64 on 64-bit systems):
-				
+
 				export LD_LIBRARY_PATH=/path/to/CoreBreach/_DEPENDENCIES/libs-linux32/:$LD_LIBRARY_PATH
-		
+
 	* BSD:
 		Building the project on BSD or other Unix systems should be similar to Linux with the exception that you need to provide some missing libraries that are provided pre-built on Linux: 
 		* Engine-dependencies: Core3D/_DEPENDENCIES/libs-linux*/:
@@ -34,5 +34,7 @@ CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-ba
 		* CoreBreach-dependencies: CoreBreach/_DEPENDENCIES/libs-linux*/:
 			* libavcodec 0.8.x: install using system package management
 			* libffplay: install from [here](https://github.com/core-code/ffplaylib)
-		
+
+3. Note that the compiled game has only minimal data assets included because the game data is not open-source, but you can combine it with the full bought data-set or the free-of-charge demo-dataset. See LICENSE.txt for more information.
+
 
