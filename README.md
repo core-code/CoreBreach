@@ -7,6 +7,7 @@ CoreBreach is THE brand-new futuristic "anti-gravity" racing game with combat-ba
 1. Checkout Core3D next to Core3D-Example
 	
 	```git clone https://github.com/core-code/Core3D.git```
+	
 	```git clone https://github.com/core-code/CoreBreach.git```
 2. 
 	* Mac: Open CoreBreach.xcodeproj in Xcode 4.x and hit the build button
